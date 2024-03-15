@@ -1,15 +1,12 @@
 <!--
  * @Author: reborncd
 -->
-# NovelT
-
+<!--
+ * @Author: reborncd
+-->
 ## 描述
 
 一个简单的推文视频制作工具，基于一些开源工具进行开发。
-
-
-
-##  [使用教程视频网址]（https://www.bilibili.com/video/BV1bw411m7A7/?vd_source=faa4615f3c71b2b526ed2b1f48a70b2c）
 
 
 ## 特征
@@ -24,10 +21,8 @@
 安装conda环境
 
 ```python
-git clone https://github.com/douhaohaode/NovelT.git
-cd NovelT
-conda create -n novelt python=3.10 -y  
-conda activate novelt
+conda create -n pythonWeb python=3.10 -y  
+conda activate pythonWeb
 pip install -r requirements.txt
 python app.py
 ```
